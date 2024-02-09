@@ -1,3 +1,3 @@
 # __init__.py
 
-from .mymodule import my_function
+from .eval_module import my_function
