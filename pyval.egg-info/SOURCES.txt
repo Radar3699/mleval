@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+pyval/__init__.py
+pyval/eval_module.py
+pyval.egg-info/PKG-INFO
+pyval.egg-info/SOURCES.txt
+pyval.egg-info/dependency_links.txt
+pyval.egg-info/top_level.txt

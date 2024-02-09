@@ -10,6 +10,6 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author='Duncan Stothers',
-    author_email='duncanstothers3699.com',
+    author_email='duncanstothers3699@gmailø.com',
     url='https://github.com/Radar3699/pyval',
 )
